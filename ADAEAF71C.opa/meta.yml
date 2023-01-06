@@ -1,0 +1,19 @@
+id: ADAEAF71C
+title: 'The Liberating Guide: A Prayer to Gyalwa Yangönpa'
+type: translation
+pechas:
+- I8526CAF0
+- I854B8BD8
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:59:16.061560
+  last_modified_at: 2023-01-04 11:59:16.061570
+  collections:
+  - Gyalwa Yangönpa
+  - Works of Tibetan Masters
+alignment_to_base:
+  I8526CAF0/3B46: 0CE4
+  I854B8BD8/9F02: 0CE4
